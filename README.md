@@ -47,3 +47,8 @@ bundle exec jekyll serve
 ```
 
 The porting forwarding not working. 
+
+## Notes
+
+- upgraded to Jekyll `4.2.2`, but problem presists
+- Link to open [issue](https://github.com/just-the-docs/just-the-docs/issues/732)
